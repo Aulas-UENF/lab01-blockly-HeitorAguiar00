@@ -31,10 +31,9 @@ A parte mais complicada foi a meia lua, porem percebi que poderia fechar a parte
 Olhando para os blocos que você usou para resolver o jogo no nível 10, imagine que o problema mudou. A sua nova missão agora é desenhar um **hexágono regular** (uma figura geométrica de 6 lados iguais) e repetir esse hexágono **4 vezes**, formando um padrão circular (como as pétalas de uma flor).
 
 **Sem precisar montar os blocos** no jogo, responda por escrito:
-* **A)** Quantas repetições o seu loop principal (que desenha o hexágono) precisaria ter e qual seria o ângulo (em graus) que a tartaruga deve virar a cada linha desenhada?
-* **B)** Depois de desenhar um hexágono completo, qual deve ser o ângulo de giro (em graus) antes de começar a desenhar o próximo hexágono, para que os 4 fiquem distribuídos igualmente em um círculo completo?
-* **C)** Explique brevemente qual foi a lógica (ou o cálculo) que você usou para descobrir os ângulos das questões A e B.
-
+* **A)** 6 repetições e 60°
+* **B)** 90°
+* **C)** O ângulo da questão A eu usei como base que um hexagono deve ter 720° de ângulo interno, logo como dentro dele existem 6 triângulos equiláteros cada lado deve ter 60°, e na letra B o ângulo deve ser 90° pois a questão pede 4 figuras em forma circular, logo como o circulo possui 360° e temos 4 figuras 360/4= 90
 ---
 
 ## ✍️ Suas Respostas
@@ -46,13 +45,13 @@ Olhando para os blocos que você usou para resolver o jogo no nível 10, imagine
 
 ## 3. Estratégia Utilizada
 *Explique com suas palavras como você resolveu o problema. Qual foi a lógica?*
-> Escreva aqui... Exemplo: Percebi que o padrão se repetia 3 vezes, então criei um bloco de função para desenhar a ponta da estrela e usei um loop...
+Primeiro fiz o hexagono e logo em seguida determinei o ângulo para ficar numa forma circular os 4 hexagonos
 
 ## 4. Desafio:
-**A)** Escreva aqui...
+**A)** Montar o Hexagono
   
-**B)** Escreva aqui...
+**B)** Encontrar os ângulos
   
-**C)** Escreva aqui...
+**C)** Montar a figura
 
 ---

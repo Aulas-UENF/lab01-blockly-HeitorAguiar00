@@ -4,8 +4,8 @@
 
 Bem-vindo(a) à sua atividade prática de Lógica Computacional! Siga os passos abaixo para completar o desafio.
 
-**Nome do Aluno:** [Preencha seu nome aqui]
-**Matrícula:** [Preencha sua matrícula]
+**Nome do Aluno:** [Heitor Aguiar Marques]
+**Matrícula:** [20261100110]
 ---
 
 ## 🎯 Objetivo
@@ -24,7 +24,7 @@ Tire um screenshot (captura de tela) da sua solução final (mostrando os blocos
 **Passo 3: Explique sua Estratégia**
 
 Escreva um pequeno texto explicando qual foi a sua linha de raciocínio e a estratégia que você usou para resolver o nível 10.
-*(Exemplo: "Criei uma função para desenhar uma estrela, depois usei um loop para repetir essa função 3 vezes girando 120 graus.")*
+A parte mais complicada foi a meia lua, porem percebi que poderia fechar a parte preta da lua parecido como fiz na etapa anterior, porem cobrindo uma area menor para formar a meia lua
 
 **Passo 4: Pergunta Desafio**
 
